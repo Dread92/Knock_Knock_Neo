@@ -1,0 +1,20 @@
+.p-one{
+    color: rgb(107, 206, 107);
+    font-size: 58px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    font-family: 'VT323', monospace;
+  }
+  @media screen and (max-width: 768px) {
+    .p-one {
+      font-size: 30px;
+    }
+  }
+  
