@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dread92.github.io/knockknockneo/",
+  "homepage": "https://dread92.github.io/Neo/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
