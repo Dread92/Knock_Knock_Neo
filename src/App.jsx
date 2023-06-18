@@ -7,7 +7,7 @@ import Fifthscreen from './components/fifthscreen';
 
 import './App.scss';
 
-function App() {
+ export function App() {
   const [currentScreen, setCurrentScreen] = useState(1);
 
   const handleClick = () => {
@@ -24,5 +24,5 @@ function App() {
   );
 }
 
-export default App;
+
 
