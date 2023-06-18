@@ -3,6 +3,7 @@ import FirstScreen from './components/firstscreen';
 import SecondScreen from './components/secondscreen';
 import ThirdScreen from './components/thirdscreen';
 import Fourthscreen from './components/fourthscreen';
+import Fifthscreen from './components/fifthscreen';
 import './app.scss';
 
 function App() {
