@@ -6,7 +6,8 @@
   "homepage": "https://dread92.github.io/knockknockneo/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
+
     "dev": "vite",
     "build": "vite build --base ./",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
