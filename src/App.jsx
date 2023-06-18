@@ -4,7 +4,8 @@ import SecondScreen from './components/secondscreen';
 import ThirdScreen from './components/thirdscreen';
 import Fourthscreen from './components/fourthscreen';
 import Fifthscreen from './components/fifthscreen';
-import './app.scss';
+
+import './App.scss';
 
 function App() {
   const [currentScreen, setCurrentScreen] = useState(1);
